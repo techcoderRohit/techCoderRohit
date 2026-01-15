@@ -19,6 +19,7 @@ Hi 👋 I'm Rohit Modi<br><br>Aspiring MERN stack learner who enjoys building fu
 
 ## 🏆 GitHub Trophies
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=techCoderRohit&theme=tokyonight&margin-w=15)
 
 
 
