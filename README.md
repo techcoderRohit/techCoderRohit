@@ -13,7 +13,7 @@ Hi 👋 I'm Rohit Modi<br><br>Aspiring MERN stack learner who enjoys building fu
 ## 📊 GitHub Stats
 
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techCoderRohit&show_icons=true&theme=tokyonight)
+!(https://github-readme-stats.vercel.app/api?username=techCoderRohit&show_icons=true&theme=tokyonight)
 
 
 
