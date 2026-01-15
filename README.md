@@ -20,13 +20,11 @@ Hi 👋 I'm Rohit Modi<br><br>Aspiring MERN stack learner who enjoys building fu
 [![](https://visitcount.itsvg.in/api?id=techCoderRohit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-
-
-
-
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=techCoderRohit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=techCoderRohit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
